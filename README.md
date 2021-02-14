@@ -2,7 +2,7 @@
 
 I created this project while learning [React](https://reactjs.org/).
 
-Where you can search users with username and view user profile, can see the number of repos, followers, following, and list of repos from where you can go to the repository on github.
+Where you can search users with username and view user profile, can see the number of repos, followers, following, and list of repos from where you can go to the user profile on github.
 
 
 
